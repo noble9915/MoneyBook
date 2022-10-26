@@ -1,0 +1,13 @@
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\bin\Debug\MoneyBook.exe.config
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\bin\Debug\MoneyBook.exe
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\bin\Debug\MoneyBook.pdb
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\obj\Debug\MoneyBook.csprojAssemblyReference.cache
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\obj\Debug\MoneyBook.fMain.resources
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\obj\Debug\MoneyBook.Properties.Resources.resources
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\obj\Debug\MoneyBook.csproj.GenerateResource.cache
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\obj\Debug\MoneyBook.csproj.CoreCompileInputs.cache
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\obj\Debug\MoneyBook.exe
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\obj\Debug\MoneyBook.pdb
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\obj\Debug\MoneyBook.fLogin.resources
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\obj\Debug\MoneyBook.fIN.resources
+D:\시험자료\경정 2-2\기말고사\MoneyBook\MoneyBook\obj\Debug\MoneyBook.fOut.resources
