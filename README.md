@@ -23,25 +23,25 @@
 5. 삭제: 해당 데이터를 선택하여 삭제 할 수 있다. 
 
 ## 4. 구현한 화면 캡쳐 및 기능 설명
-1. 입 출금 기록
+4.1 입 출금 기록
 
 ![입출금기록](https://user-images.githubusercontent.com/72693650/198053853-0ce72992-52d1-4a66-88ce-2e2c85b57cf2.png)
 
 입금, 출금을 하면 화면에 기록이 된다. 기록된 정보로 편집과 삭제를 할 수 있다.
 
-2. 로그인 화면
+4.2 로그인 화면
 
 ![로그인화면](https://user-images.githubusercontent.com/72693650/198053789-6f2465ad-38ad-4988-bd21-5d3b65632105.png)
 
 로그인을 해서 각 개인 가계부를 등록 할 수 있다.
 
-3. 입금
+4.3 입금
 
 ![입금](https://user-images.githubusercontent.com/72693650/198053838-5a1f778e-1c99-4708-8e7c-78885054dd5c.png)
 
 등록일, 분류, 금액, 비고를 기록하여 입금을 할 수 있다.
 
-4. 출금
+4.4 출금
 
 ![출금](https://user-images.githubusercontent.com/72693650/198053864-8b11fa49-f878-4040-845a-cdd5e1fc7535.png)
 
